@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pi-seccom-sandbox",
+  "private_key_id": "dc2088928174ab9cd7945c5b1cd093ae50e70e93",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCngSuaXEmYr7hO\nXFRethdpnyCzL5JY8VAbvw4FACLDPfOaVHgs7DLsFQ+lOANbudqoVLFrqbqBNICk\nSXm8WQV6Ea8s344eqsWsaoya9Z+d6CE4eP3K1HRbqn7HG88O2kO5JwgntsjI16t+\ny1hjCYW1mRUZr70A18dpiRss6Y7ICYmZwX19hVhoerVgMBFFCW2EnHz2Ui1XW7cO\noV9Yqibe8CiwedI1HE8zjVY+tpXmHX4De2qQuepJe1NP5DgPAOISbyBE+Ny1Hx82\nZyIWuY+0pfqWkl2AwzoYU0uOO5TP2FMaHUTyS3V1f6LOrkpas1tHHIXhtIcs4AGH\njLZG2WVFAgMBAAECggEAA/hDM0GUnJufg57NR9zK+N3Eq+CzcSE+SftiwyUwGGO/\ngjP5yXtuzExitIKCovnob+sFQxYH0vDrBFm9U5nwLENNMnz5FIqX1uQ15M9FX5FB\nqdqaqk6ThfFoSQ1ZzrXHJfGQSSo4n5VBJO4qaQI+IDBMVniW9O4hIBlQuBch8XOC\nxR3R6LK0cTNNXpoKKm1Qf07ahaygr+vqJGrmS1jk4xhmyZ9E8Ev/1cwtvAvCfAgz\nYSO+FKpgA6j5rDtN8FLFh1I+DqWebo0ey1gOWnDWTUIv9XQiUaP5UKo9ebzTeJ3u\nmktb+HCEeid0kurqew3JSs5iUXZoaRO9bL8eDAs2GQKBgQDlVkMeug/YZrXR+by1\nLZ8i4ard+2MlhIfqCTOp5jbtZ5MftGKkNLXHcl3nKItL6vhQGml5ueBu/QqAe725\nJlGoutw9VCfwGETbE8GkOWthyD28VinV7rwsBOFvtMMhUCBOlJzqM05LZkuAI3hJ\nPFroseHPg0lkdc6hv6yPJWoJzQKBgQC6+ph5+XOLekXeM4Wf5MEPSP1S6RJX8Q4q\nJ54YQ0HV5JMCtV0RWSv2/gjDpO7anUDdmsJ86DDI2JBN93nvoWMpC8soDkkbgP5l\njeILeWa5rSnMqpDK7ZQzMDOcYz+P/YoY0kJzzfwvPJmo9bZFSVHnKky8Ohon56bW\n7RYWjsrxWQKBgQCI57UL28Dny3DRF4fKlKCCPzs0ZwSp+fL1CGc6Dn9Nu939OD8G\njZzSonhiLTbyrCNuFkZO72KGfzJMvxHkPHbVBi/BwMJStvor2iBn/AsZhWMtUjaJ\nSoo0sPkvKTavZVjT8C24NcaQhlGd/g6pkYknjkEiEtq2SQmAT58gmRIzJQKBgHoi\noSDjwgb0yti3POzR5w4N9nOHDVVmf4Mnt8xPepy2HxVg1Lc1UVOYYq8xeFhS6gEX\nSz1+CgfX9oMHSZ4vBG/WZVD36+dMXmCFyocGOQTGSQyIyeXURL8fGEdqSSXMTr2h\n8ohkn/tXEWRdhD9EAn0Gk3NMXLN+TOwNmCUKBySZAoGBAMkLD1bCXulblkJIoY26\nehEtsO3F1wr4MZZ0x8ODPTbYCXAo/kfsI0Y7kMY2SHHPlBJTHFvoib5SYwtAWzTI\nhmVMkhmSM06+PMZa04stsYb8Fm8jb7R22To0JwYL/OeDAMLz6pPOXKd7E+IpctD1\nwC3oXwuM997vi+AdLGareuo5\n-----END PRIVATE KEY-----\n",
+  "client_email": "mq-upload-key-test@pi-seccom-sandbox.iam.gserviceaccount.com",
+  "client_id": "118310822464968564597",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mq-upload-key-test%40pi-seccom-sandbox.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
